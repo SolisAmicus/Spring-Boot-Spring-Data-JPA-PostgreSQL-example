@@ -51,7 +51,7 @@ $ docker run --name datasource_postgreSQL -p 5432:5432 -e POSTGRES_USER=solisami
 Modify application.properties:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://127.0.0.1:5432/datasource_postgreSQL
+spring.datasource.url=jdbc:postgresql://127.0.0.1:5432/mydb
 spring.datasource.username=solisamicus
 spring.datasource.password=password
 ```
