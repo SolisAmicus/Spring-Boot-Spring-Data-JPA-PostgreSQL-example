@@ -14,7 +14,7 @@
 ## How to run it
 
 ```shell
-$ git clone git@github.com:SolisAmicus/SolisAmicus-Spring-Boot-Spring-Data-JPA-MySQL-example.git
+$ git clone git@github.com:SolisAmicus/Spring-Boot-Spring-Data-JPA-PostgreSQL-example.git
 ```
 
 ```shell
